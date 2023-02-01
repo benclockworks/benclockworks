@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benclockworks
 - 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning OOP and Computer Architecture 
+- 🌱 I’m currently learning OOP, ML, and CV
 - 💞️ I’m looking to collaborate on ios development projects
 - 📫 How to reach me is by emailing bbayor@gmail.com
 
